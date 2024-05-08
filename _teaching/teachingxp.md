@@ -1,5 +1,5 @@
 ---
-title: "Xi'an Jiaotong-Liverpool University"
+title: "Xian Jiaotong-Liverpool University"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teachingxp
@@ -24,7 +24,6 @@ Modeling Contest Talk
 
 Graduate Supervison
 ======
-
 * Ph.D Candidate
   * Yiliang Zhou, PGRS Funded, Jointly with Prof. N. Balakrishnan, 2023 - present
   * Jiahao Zhao, PGRS Funded, Jointly with Prof. Kaizhu Huang, 2023 - present
