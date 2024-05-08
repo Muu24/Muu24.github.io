@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teachingxp
 venue: "Department of Foundational Mathematics"
-date: 2020-present
+date: 2020
 location: "Suzhou, China"
 ---
 
