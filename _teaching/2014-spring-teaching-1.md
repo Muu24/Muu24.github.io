@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Xi'an Jiaotong-Liverpool University"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/teachingxp
+venue: "Department of Foundational Mathematics"
+date: 2020-present
+location: "Suzhou, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching and Supervisions
 
 Curriculum Teaching
 ======
@@ -18,8 +18,18 @@ Curriculum Teaching
 * MTH 017 Linear Algebra for Mathematical Science, Xi'an Jiaotong-Liverpool University (Fall, 2021)
 * MTH 015 Linear Algebra, Xi'an Jiaotong-Liverpool University (Fall 2020)
   
-Heading 2
+Modeling Contest Talk
+======
+* Data Visualization [(Website)](https://hemu0626.github.io/modeling/)
+
+Graduate Supervison
 ======
 
-Heading 3
+* Ph.D Candidate
+  * Yiliang Zhou, PGRS Funded, Jointly with Prof. N. Balakrishnan, 2023 - present
+  * Jiahao Zhao, PGRS Funded, Jointly with Prof. Kaizhu Huang, 2023 - present
+
+Summer Undergraduate Research Fellowship
 ======
+* SURF 2023: Elementary methods in Dimensionality Reduction and Transforms 
+* SURF 2022: Recent Developments in Psychometrical Methods [(Website)](https://hemu0626.github.io/educ_stat/) 
