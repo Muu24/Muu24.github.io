@@ -1,5 +1,5 @@
 ---
-title: "Xi'an Jiaotong-Liverpool University"
+title: ""
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teachingxp
